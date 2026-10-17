@@ -1,0 +1,10 @@
+# Public respondent-level survey files are obtained from the JRC, not committed here.
+data/
+*.dta
+*sample.zip
+
+# Generated model outputs and local R state.
+output/
+.Rhistory
+.RData
+.Rproj.user/
